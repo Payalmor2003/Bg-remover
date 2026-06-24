@@ -1,0 +1,8 @@
+openai
+Pillow
+aiofiles
+aiohttp
+python-dotenv
+aiolimiter
+numpy
+pyodbc
