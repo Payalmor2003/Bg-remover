@@ -1,7 +1,8 @@
-.env
-venv/
+build/
+dist/
 __pycache__/
 *.pyc
-.pytest_cache/
+.env
+.idea/
 output/
 input/
